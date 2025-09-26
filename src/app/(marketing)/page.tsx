@@ -137,7 +137,7 @@ const HomePage = () => {
                 <ArrowRight className="w-4 h-4 ml-1" />
               </Button>
             </Link>
-          )
+          
         </div>
 
         <section id="#" className="scroll-mt-20"></section>
