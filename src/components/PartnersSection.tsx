@@ -36,15 +36,7 @@ const PartnersSection = () => {
           style={{ objectFit: 'contain' }}
         />
       </div>
-      <div className="opacity-70 hover:opacity-100 transition-opacity duration-300 cursor-pointer" onClick={() => window.open('https://www.rbc.com', '_blank')}>
-        <Image 
-          src="/assets/logos/RBC.png"
-          alt="RBC Logo"
-          width={150}
-          height={80}
-          style={{ objectFit: 'contain' }}
-        />
-      </div>
+      
     </div>
   </Container>
 </Wrapper>

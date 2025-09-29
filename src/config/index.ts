@@ -2,11 +2,11 @@ import { Metadata } from "next";
 
 export const SITE_CONFIG: Metadata = {
     title: {
-        // write a default title for magnest a ai powered property manager.
-        default: "Magnest - AI Powered Property Management",
+        // write a default title for magnest realty.
+        default: "Magnest Realty Inc., Brokerage",
         template: `%s | Magnest`
     },
-    description: "Magnest is an AI powered property management SaaS that helps you build your property management pipeline and generate leads for real estate transactions effortlessly!",
+    description: "Magnest Realty is a real estate brokerage in Ontario",
     icons: {
         icon: [
             {
@@ -16,8 +16,8 @@ export const SITE_CONFIG: Metadata = {
         ]
     },
     openGraph: {
-        title: "Magnest - AI Powered Property Manager",
-        description: "Magnest is an AI powered property manager that helps manage your clients property!",
+        title: "Magnest Realty Inc., Brokerage",
+        description: "Magnest Realty is a real estate brokerage in Ontario",
         images: [
             {
                 url: "/assets/og-image.png",
@@ -27,8 +27,8 @@ export const SITE_CONFIG: Metadata = {
     twitter: {
         card: "summary_large_image",
         creator: "magnest",
-        title: "Magnest - AI Powered Property Manager",
-        description: "Magnest is an AI powered property manager that helps manage your clients property!",
+        title: "Magnest Realty Inc., Brokerage",
+        description: "Magnest Realty is a real estate brokerage in Ontario",
         images: [
             {
                 url: "/assets/og-image.png",

@@ -80,19 +80,7 @@ const HomePage = () => {
 
       <section className="w-full relative flex items-center justify-center flex-col px-4 md:px-0 py-8">
         
-        {/* Video Background */}
-        <video
-          autoPlay
-          loop
-          muted
-          playsInline
-          className="absolute inset-0 w-full h-full object-cover -z-20"
-        >
-          <source src="/assets/hero-background.mp4" type="video/mp4" />
-        </video>
-
-
-
+        
         {/* Hero Section */}
 <Wrapper>
   <Container>
@@ -137,7 +125,7 @@ const HomePage = () => {
                 <ArrowRight className="w-4 h-4 ml-1" />
               </Button>
             </Link>
-          )
+          
         </div>
 
         <section id="#" className="scroll-mt-20"></section>
