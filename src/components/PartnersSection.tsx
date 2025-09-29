@@ -13,7 +13,7 @@ const PartnersSection = () => {
       <SectionBadge title="Supported By" />
       <h2 className="text-3xl md:text-4xl font-bold mt-4 mb-6">Our Ecosystem</h2>
       <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-        We're proud to be supported by leading institutions advancing innovation, technology, and financial investment, empowering our real estate brokerage to deliver comprehensive solutions with strong industry partnerships.
+        We collaborate with a network of trusted partners, service providers, and industry organizations to support our real estate services and deliver comprehensive solutions for our clients.
       </p>           
     </div>
 
